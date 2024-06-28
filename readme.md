@@ -3,6 +3,7 @@
 This is a thermoelectric generator (TEG) boost converter used to power a connected battery or capacitor to periodically operate a microcontroller reading from a biometric sensor to compute blood oxygen saturation. That was a big sentence!
 
 This is the second iteration of the TEGSense board, with some schematic fixes and redesigned for a smaller flex board with bigger contacts for easy printing of conductive traces.
+It is intended to be connected to a print-friendly version of the [SpO2 board](https://github.com/TEGSense/hardware-spo2-flex) and a [flex capacitor bank](https://github.com/TEGSense/hardware-flex-capboard).
 
 ![CAD rendering](flex-cad.png)
 
