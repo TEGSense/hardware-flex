@@ -2,6 +2,8 @@
 
 This is a thermoelectric generator (TEG) boost converter used to power a connected battery or capacitor to periodically operate a microcontroller reading from a biometric sensor to compute blood oxygen saturation. That was a big sentence!
 
+This is the second iteration which fixes some bugs in the first and is meant to be used on a FlexPCB, including bigger connectors to make printing conductive traces onto the terminals easier.
+
 ## License
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
